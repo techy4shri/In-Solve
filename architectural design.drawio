@@ -194,7 +194,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7k5NrrAs-kML9d5hzw_J" name="Page-2">
-    <mxGraphModel dx="934" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="454" dy="281" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -267,7 +267,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dweIm9apWIgpTYq1hDRL-46" value="Central Platform&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;container=1;dropTarget=0;size=0.07692307692307693;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="dweIm9apWIgpTYq1hDRL-46" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Central Platform&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;container=1;dropTarget=0;size=0.07692307692307693;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="300" y="180" width="250" height="160" as="geometry">
             <mxRectangle x="300" y="180" width="170" height="100" as="alternateBounds" />
           </mxGeometry>
@@ -288,20 +288,29 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="dweIm9apWIgpTYq1hDRL-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dweIm9apWIgpTYq1hDRL-53" target="dweIm9apWIgpTYq1hDRL-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dweIm9apWIgpTYq1hDRL-53" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Document Uploading&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="200" width="50" height="30" as="geometry" />
+          <mxGeometry x="325" y="260" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dweIm9apWIgpTYq1hDRL-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dweIm9apWIgpTYq1hDRL-55" target="dweIm9apWIgpTYq1hDRL-56">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dweIm9apWIgpTYq1hDRL-55" value="&lt;font size=&quot;1&quot;&gt;Document Parsing&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="200" width="50" height="30" as="geometry" />
+          <mxGeometry x="370" y="200" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dweIm9apWIgpTYq1hDRL-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="dweIm9apWIgpTYq1hDRL-56" target="dweIm9apWIgpTYq1hDRL-59">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dweIm9apWIgpTYq1hDRL-56" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Form Generation&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dweIm9apWIgpTYq1hDRL-58" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Collaboration Module&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="270" width="60" height="30" as="geometry" />
+          <mxGeometry x="440" y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dweIm9apWIgpTYq1hDRL-59" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Complaince Checker&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="270" width="80" height="30" as="geometry" />
+          <mxGeometry x="325" y="300" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dweIm9apWIgpTYq1hDRL-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.063;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dweIm9apWIgpTYq1hDRL-45" target="dweIm9apWIgpTYq1hDRL-46">
           <mxGeometry relative="1" as="geometry" />
@@ -331,6 +340,9 @@
           <mxGeometry x="-0.4462" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dweIm9apWIgpTYq1hDRL-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.679;entryY=0.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dweIm9apWIgpTYq1hDRL-56" target="dweIm9apWIgpTYq1hDRL-58">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
