@@ -57,3 +57,6 @@ if __name__ == "__main__":
         print("Extracted Data:", extracted_fields)
     except Exception as e:
         print(e)
+
+
+#hope this works or i am yeeting myself
